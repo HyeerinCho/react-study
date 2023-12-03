@@ -7,6 +7,9 @@ const ModalWrapper = styled.div`
     background: rgba(0, 0 , 0, 0.7);
     position: fixed;
     z-index: 3;
+
+    padding: 20px;
+    text-align: center;
 `;
 
 export function Modal(props){
