@@ -9,6 +9,6 @@ const Div = styled.div`
 
 export function Home(){
     return ( 
-        <Div>Welcom!</Div>
+        <Div>Welcome!</Div>
     );
 }
